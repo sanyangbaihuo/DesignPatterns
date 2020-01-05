@@ -18,6 +18,10 @@ public class AssertUtil {
         }
     }
 
+    public static void main(String[] args) {
+
+    }
+
     public static void assertNotEmpty(String str, String fieldName) {
         assertNotEmpty(str, fieldName, false);
     }
