@@ -19,7 +19,7 @@ public class AssertUtil {
     }
 
     public static void main(String[] args) {
-
+        System.out.println("打印一句话");
     }
 
     public static void assertNotEmpty(String str, String fieldName) {
